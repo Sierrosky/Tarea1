@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Agumón",
+        "type": [
+            { "name": "Vacuna", 
+            "strongAgainst": ["Virus"],
+            "weakAgainst": ["Datos"] }
+        ],
+        "img": "https://i.pinimg.com/564x/b9/2f/38/b92f3877ccd0ee9749269d5e72ad6832.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Gatomón",
+        "type": [
+            { "name": "Vacuna", 
+                "strongAgainst": ["Virus"], 
+                "weakAgainst": ["Datos"] }
+        ],
+        "img": "https://vignette.wikia.nocookie.net/tu-digimon/images/e/e4/Gatomon.gif/revision/latest/scale-to-width-down/300?cb=20130127193244&path-prefix=es"
+    },
+    {
+        "id": 3,
+        "name": "Piyomon",
+        "type": [
+            { "name": "Vacuna", 
+                "strongAgainst": ["Virus"], 
+                "weakAgainst": ["Datos"] }
+        ],
+        "img": "https://static.wikia.nocookie.net/digimon/images/4/4a/Piyomon_b.jpg/revision/latest/scale-to-width-down/320?cb=20120506143225&path-prefix=es"
+    },
+    {
+        "id": 4,
+        "name": "Togemon",
+        "type": [
+            { "name": "Virus", 
+                "strongAgainst": ["Datos"], 
+                "weakAgainst": ["Vacuna"] }
+        ],
+        "img": "https://static.wikia.nocookie.net/digimon/images/4/4d/Togemon_b.jpg/revision/latest/scale-to-width-down/320?cb=20100907171143&path-prefix=es"
+    },
+    {
+        "id": 5,
+        "name": "MetalSeadramon",
+        "type": [
+            { "name": "Datos", 
+                "strongAgainst": ["Vacuna"], 
+                "weakAgainst": ["Virus"] }
+        ],
+        "img": "https://static.wikia.nocookie.net/digimon/images/d/d0/MetalSeadramon_b.jpg/revision/latest/scale-to-width-down/320?cb=20120215182637&path-prefix=es"
+    }
+
+]
